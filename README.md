@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [shopConnect](https://shopconnectt.onrender.com/)
+- 🔭 I am currently working on a personal project [Indeependent](https://github.com/JuanGenovese/IndependentApp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mmariotti08](https://github.com/mmariotti08)
 
